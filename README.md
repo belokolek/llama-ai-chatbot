@@ -1,4 +1,4 @@
-# chatbot-llamaparse
+# Llama AI Chatbot
 
 A LLM Chatbot that uses [LlamaIndex](https://www.llamaindex.ai/) and [OpenAI](https://openai.com/) with Custom PDF data to answer users query.
 
@@ -31,5 +31,3 @@ uvicorn main:app --reload
 - Custom chatbot reply template to add reference links and image the replies.
 - Use Online DB such as MongoDB Vector
 - Parallel processing for loading database.
-
-[Page Top](#chatbot-llamaparse)
